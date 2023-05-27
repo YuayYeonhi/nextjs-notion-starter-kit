@@ -10,15 +10,16 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Yuay\' Notion Blog',
-  domain: 'blog.yuay.com.cn',
+  domain: 'yuay.com.cn',
   author: 'Yuay',
 
   // open graph metadata (optional)
   description: 'Yuay\' Next.js Notion Blog Site',
 
   // social usernames (optional)
-  //twitter: '',
+  twitter: 'YuayYagira',
   github: 'YuayYeonhi',
+  zhihu:'yeonhi',
   // linkedin: '',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
