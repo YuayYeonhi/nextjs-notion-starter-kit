@@ -21,7 +21,7 @@ export default siteConfig({
   github: 'YuayYeonhi',
   zhihu:'yeonhi',
   // linkedin: '',
-  // mastodon: '#', // optional mastodon profile URL, provides link verification
+  mastodon: 'https://m.cmx.im/@yuay', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
