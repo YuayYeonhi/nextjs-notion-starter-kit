@@ -19,7 +19,7 @@ export default siteConfig({
   // social usernames (optional)
   twitter: 'YuayYagira',
   github: 'YuayYeonhi',
-  zhihu:'yeonhi',
+  //zhihu:'yeonhi',
   // linkedin: '',
   mastodon: 'https://m.cmx.im/@yuay', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
