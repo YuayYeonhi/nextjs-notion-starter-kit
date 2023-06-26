@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Yuay\' Notion Blog',
-  domain: 'yuay.ac.cn',
+  domain: 'yuay.com.cn',
   author: 'Yuay',
 
   // open graph metadata (optional)
