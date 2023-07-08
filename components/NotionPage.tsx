@@ -248,7 +248,7 @@ export const NotionPage: React.FC<types.PageProps> = ({
   if (block.type === 'page' && block.parent_table === 'collection') {
     comments = (
       <ReactUtterances
-        repo='YuayYeonhi/nextjs-notion-starter-kit'
+        repo='YuayYeonhi/comment'
         issueMap='issue-term'
         issueTerm='title'
         label='blog'
