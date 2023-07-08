@@ -21,6 +21,10 @@ body {
   overflow-x: hidden;
 }
 
+.utterances {
+  max-width: 100% !important;
+}
+
 .static-tweet blockquote {
   margin: 0;
   margin-block-start: 0;
@@ -57,6 +61,6 @@ body {
   background-color: var(--fg-color-1);
 }
 
-::-webkit-scrollbar-track {           
+::-webkit-scrollbar-track {
     background-color: var(--bg-color);
 }
