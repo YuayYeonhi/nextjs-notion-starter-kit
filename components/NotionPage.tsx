@@ -255,16 +255,6 @@ export const NotionPage: React.FC<types.PageProps> = ({
         theme='preferred-color-scheme'
       />
     )
-    if(isDarkMode.value ==='dark-mode')
-    {
-      <ReactUtterances
-        repo='YuayYeonhi/comment'
-        issueMap='issue-term'
-        issueTerm='title'
-        label='blog'
-        theme='github-dark'
-      />
-    }
   }
 
 
