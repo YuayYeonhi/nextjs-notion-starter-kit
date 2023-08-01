@@ -9,8 +9,8 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Yuay\' Notion Blog',
-  domain: 'yuay.ac.cn',
+  name: '落書き',
+  domain: 'rakugaki.cn',
   author: 'Yuay',
 
   // open graph metadata (optional)
